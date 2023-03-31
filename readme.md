@@ -66,11 +66,3 @@ Now you're ready to rock and roll! Visit the `/register` page of you're applicat
 
 ## License
 The laravel-newsletter application is open source software licensed under the [license MIT](https://opensource.org/licenses/MIT).
-
-## Contributors
-* [Cannonb4ll](https://github.com/Cannonb4ll)
-
-## Donate
-If you love this project and you appreciate my work.. You might consider buying me a coffee. ☕️
-
-<a href="https://www.buymeacoffee.com/NathanGeerinck"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
